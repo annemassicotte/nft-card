@@ -1,0 +1,12 @@
+.card{
+    background-color:#15273F;
+    border-radius:20px;
+    padding:2rem;
+}
+
+.card.flex-container{
+    display:flex;
+    flex-direction:column;
+    justify-content:space-between;
+    gap:2rem;
+}

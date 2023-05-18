@@ -1,0 +1,12 @@
+.flex{
+    display:flex;
+    justify-content: space-between;
+}
+
+.flex.flex-row{
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    justify-content:flex-start;
+    gap:1rem;
+}
